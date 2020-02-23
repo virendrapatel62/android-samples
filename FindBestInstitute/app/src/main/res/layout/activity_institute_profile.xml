@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.InstituteProfile">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top|center_horizontal"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/heading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/later2"
+                android:fontFamily="monospace"
+                android:gravity="center"
+                android:text="FFTC"
+                android:textColor="#ffffff"
+                android:textSize="80dp"
+                android:textStyle="bold" />
+
+            <ListView
+                android:id="@+id/datalist"
+                android:layoutAnimation="@anim/layout_anim"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp" />
+
+        </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

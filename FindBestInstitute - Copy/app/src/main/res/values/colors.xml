@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#333945</color>-->
+    <!--<color name="colorPrimaryDark">#2F363F</color>-->
+    <color name="colorPrimaryDark">#056c74</color>
+    <color name="colorPrimary">#FF06858F</color>
+    <color name="colorAccent">#616C6F</color>
+
+    <color name="text">#2C3335</color>
+    <color name="later1">#EA7773</color>
+    <color name="later2">#01CBC6</color>
+    <color name="later3">#F3B63A</color>
+    <color name="later4">#91b5ea</color>
+    <color name="later5">#1287A5</color>
+
+
+    <color name="button">#EA7773</color>
+    <color name="text_light">#EAF0F1</color>
+    <color name="text_dark_light">#535C68</color>
+    <color name="text_dark">#2F363F</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="lightSeegreen">#149FAB</color>
+    <color name="medium_tur">#37ABC5</color>
+    <color name="tan">#D4D2A9</color>
+    <color name="tarque">#4CEBF1</color>
+
+
+    <color name="button_blue">#1e969f</color>
+
+
+    <color name="actionBarColorForSplash">#149FAB</color>
+
+
+
+
+</resources>
